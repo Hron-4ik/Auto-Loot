@@ -1,0 +1,9 @@
+{
+    "RequiredExtensionVersion": 56,
+    "ModTable": "AutoLoot",
+    "FeatureFlags": [
+        "OsirisExtensions",
+        "Lua",
+        "Preprocessor"
+    ]
+}
