@@ -1,2 +1,2 @@
-key "CarryWeightBase","1000000"
+key "CarryWeightBase","10000"
 
